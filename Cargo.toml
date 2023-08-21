@@ -1,7 +1,14 @@
 [package]
 name = "gnal_tsur"
+description = ".esrever ni edoc etirW"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kyza"]
+license = "MIT"
+repository = "https://github.com/Kyza/gnal_tsur"
+readme = "./README.md"
+keywords = ["macro", "reverse", "fun", "backward", "proc_macro"]
+categories = ["development-tools::build-utils", "rust-patterns"]
 
 [dependencies]
 proc-macro-error = "1.0.4"

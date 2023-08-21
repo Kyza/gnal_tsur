@@ -1,5 +1,7 @@
 # gnal_tsur!
 
+.esrever ni edoc etirW
+
 ## Features
 
 - [x] Reversed tokens.
