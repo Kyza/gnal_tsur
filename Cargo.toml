@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/Kyza/gnal_tsur"
 readme = "./README.md"
 keywords = ["macro", "reverse", "fun", "backward", "proc_macro"]
-categories = ["development-tools::build-utils", "rust-patterns"]
+categories = ["development-tools::build-utils"]
 
 [dependencies]
 proc-macro-error = "1.0.4"
